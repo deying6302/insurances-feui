@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 27 Oct 2024 16:52:46 at https://html.themewant.com/news5/main/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.themewant.com/news5/main/index.html -O1 "D:\Excel\new2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:53:43	Error: 	"Not Found" (404) at link https://unistudio.co/html/news5/assets/images/common/seo-image.jpg (from https://html.themewant.com/news5/main/index.html)
+16:54:00	Error: 	"Not Found" (404) at link https://html.themewant.com/news5/main/to_top (from https://html.themewant.com/news5/main/index.html)
+16:54:00	Error: 	"Not Found" (404) at link https://html.themewant.com/news5/main/page-author.html (from https://html.themewant.com/news5/main/index.html)
+16:54:00	Error: 	"Not Found" (404) at link https://html.themewant.com/news5/assets/images/common/ad-mobile.jpg (from https://html.themewant.com/news5/main/index.html)
+16:54:00	Error: 	"Not Found" (404) at link https://html.themewant.com/news5/main/Version/ (from https://html.themewant.com/news5/assets/js/libs/swiper-bundle.min.js)
+16:54:00	Error: 	"Not Found" (404) at link https://html.themewant.com/news5/main/e (from https://html.themewant.com/news5/assets/js/libs/swiper-bundle.min.js)
+16:54:00	Error: 	"Not Found" (404) at link https://html.themewant.com/news5/main/t.params.url (from https://html.themewant.com/news5/assets/js/libs/swiper-bundle.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 14 seconds : 80 links scanned, 72 files written (14175811 bytes overall) [2632130 bytes received at 35569 bytes/sec], 12812544 bytes transferred using HTTP compression in 57 files, ratio 9%, 20.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
